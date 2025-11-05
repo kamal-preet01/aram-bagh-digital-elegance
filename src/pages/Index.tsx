@@ -7,12 +7,12 @@ import farmBackground from "@/assets/farm-background.jpg";
 const Index = () => {
   // Edit these values for your business
   const contactInfo = {
-    phoneNumber: "91XXXXXXXXXX", // Replace with actual number (country code without +)
-    displayPhone: "+91 XXXX-XXXXXX",
+    phoneNumber: "9810118706", // Replace with actual number (country code without +)
+    displayPhone: "+91 9810118706",
     email: "info@arambagh.com",
-    instagram: "https://instagram.com/arambagh",
-    website: "https://arambagh.com",
-    mapsLink: "https://maps.google.com/?q=Aram+Bagh",
+    instagram: "https://www.instagram.com/arambagh__?igsh=M212bXV0M2NkaHB5",
+    website: "https://arambagh.in",
+    mapsLink: "https://www.google.com/maps?q=27.569464,76.851463",
     brochureUrl: "/brochure.pdf", // Add your brochure PDF to public folder
     vCardUrl: "/contact.vcf",
   };
