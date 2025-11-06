@@ -13,7 +13,7 @@ const Index = () => {
     instagram: "https://www.instagram.com/arambagh__?igsh=MWFybTFqdnhlZ2RlcA==",
     website: "https://arambagh.in",
     mapsLink: "https://www.google.com/maps?q=27.569464,76.851463",
-    brochureUrl: "/brochure.pdf", // Add your brochure PDF to public folder
+    brochureUrl: "brochure.pdf", // Add your brochure PDF to public folder
     vCardUrl: "/contact.vcf",
   };
 
